@@ -17,6 +17,7 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  padding-bottom: 20px;
 }
 
 input[type="button"] {
@@ -211,7 +212,7 @@ i {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: #3882f6;
+  background: #ff382a;
   width: 70%;
   margin: auto;
   border-radius: 10px;
